@@ -33,4 +33,4 @@ En este vídeo, aprenderá lo siguiente:
 * Cómo la recuperación (RAG) fundamenta las respuestas en fuentes activas y produce citas
 * Por qué la moneda del descubrimiento está cambiando del clic a la cita, y las cinco palancas que ganan citas
 
->[!VIDEO](https://video.tv.adobe.com/v/3502723/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502888/?captions=spa&learn=on){transcript=true}

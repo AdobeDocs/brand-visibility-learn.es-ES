@@ -34,4 +34,4 @@ En este vídeo, aprenderá lo siguiente:
 * Dónde revisar qué sugerencias ha aplicado y cuáles siguen abiertas
 * Cómo revertir cualquier optimización en cualquier momento
 
->[!VIDEO](https://video.tv.adobe.com/v/3502721/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502730/?captions=spa&learn=on){transcript=true}

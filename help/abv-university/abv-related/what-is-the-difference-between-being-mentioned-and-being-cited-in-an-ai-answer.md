@@ -34,4 +34,4 @@ En este vídeo, aprenderá lo siguiente:
 * Cómo la recuperación (RAG) es lo que produce una cita real
 * Por qué una cita es una señal más fuerte de que tu marca fue usada como evidencia
 
->[!VIDEO](https://video.tv.adobe.com/v/3502765/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502843/?captions=spa&learn=on){transcript=true}

@@ -34,4 +34,4 @@ En este vídeo, aprenderá lo siguiente:
 * Por qué los canónicos, los muros de pago y los muros de inicio de sesión incoherentes limitan el acceso de IA
 * Cómo el procesamiento del lado del cliente oculta el contenido y cómo lo corrige la visibilidad del contenido de recuperación
 
->[!VIDEO](https://video.tv.adobe.com/v/3502741/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502925/?captions=spa&learn=on){transcript=true}

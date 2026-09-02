@@ -34,4 +34,4 @@ En este vídeo, aprenderá lo siguiente:
 * Cómo las optimizaciones de Edge actualmente solo sirven para bots de IA, no para rastreadores de búsqueda
 * Cómo se puede revertir cualquier optimización en segundos desde la CDN
 
->[!VIDEO](https://video.tv.adobe.com/v/3502726/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502866/?captions=spa&learn=on){transcript=true}

@@ -34,4 +34,4 @@ En este vídeo, aprenderá lo siguiente:
 * Por qué el mismo mensaje puede devolver un tono diferente entre usuarios y días
 * Cómo Adobe Brand Visibility rastrea la opinión a lo largo del tiempo y por mensaje
 
->[!VIDEO](https://video.tv.adobe.com/v/3502767/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502879/?captions=spa&learn=on){transcript=true}

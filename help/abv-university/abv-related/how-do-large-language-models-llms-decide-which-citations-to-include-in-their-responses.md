@@ -34,4 +34,4 @@ En este vídeo, aprenderá lo siguiente:
 * Por qué una cobertura coherente puede superar a una sola clasificación número uno
 * Por qué el contenido de actualidad profunda y el SEO fuerte siguen generando citas
 
->[!VIDEO](https://video.tv.adobe.com/v/3502762/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502825/?captions=spa&learn=on){transcript=true}

@@ -34,4 +34,4 @@ En este vídeo, aprenderá lo siguiente:
 * Por qué mantener un registro con versiones de los mensajes y su intención los mejora con el tiempo
 * Cómo cargar las solicitudes en Configuración del cliente y por qué los cambios frecuentes pueden afectar a las puntuaciones históricas
 
->[!VIDEO](https://video.tv.adobe.com/v/3502722/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502745/?captions=spa&learn=on){transcript=true}

@@ -34,4 +34,4 @@ En este vídeo, aprenderá lo siguiente:
 * Lo que significa que ChatGPT es de nuevo un canal de tráfico, no solo un canal de marca
 * La nueva función de tráfico de referencia del Inspector de URL muestra esto
 
->[!VIDEO](https://video.tv.adobe.com/v/3502764/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502913/?captions=spa&learn=on){transcript=true}

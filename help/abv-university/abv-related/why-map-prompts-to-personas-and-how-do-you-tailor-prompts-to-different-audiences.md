@@ -34,4 +34,4 @@ En este vídeo, aprenderá lo siguiente:
 * Cómo agrupar temas por persona, como un tomador de decisiones o un estudiante
 * Por qué la visibilidad promedio en toda una audiencia oculta su posición real
 
->[!VIDEO](https://video.tv.adobe.com/v/3502768/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502798/?captions=spa&learn=on){transcript=true}

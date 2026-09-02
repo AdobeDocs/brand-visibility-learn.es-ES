@@ -34,4 +34,4 @@ En este vídeo, aprenderá lo siguiente:
 * Cómo HTML preprocesado solo se sirve a bots de IA, no a usuarios
 * Cómo los resúmenes y tablas de contenido inyectados ayudan a los bots a comprender una página
 
->[!VIDEO](https://video.tv.adobe.com/v/3502739/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502789/?captions=spa&learn=on){transcript=true}

@@ -34,4 +34,4 @@ En este vídeo, aprenderá lo siguiente:
 * Cómo facilitar el acceso y la comprensión del contenido a los rastreadores
 * Cómo Adobe Brand Visibility muestra las citas de terceros que se deben alinear
 
->[!VIDEO](https://video.tv.adobe.com/v/3502733/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502852/?captions=spa&learn=on){transcript=true}

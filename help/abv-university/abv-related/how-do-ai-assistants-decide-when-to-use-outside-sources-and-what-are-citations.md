@@ -33,4 +33,4 @@ En este vídeo, aprenderá lo siguiente:
 * Por qué algunas citas son alucinadas y pueden llevar a la 404s
 * Cómo contar una fuente recuperada real a partir de texto generado por el modelo
 
->[!VIDEO](https://video.tv.adobe.com/v/3502754/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502834/?captions=spa&learn=on){transcript=true}

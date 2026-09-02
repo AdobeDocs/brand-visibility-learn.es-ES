@@ -34,4 +34,4 @@ En este vídeo, aprenderá lo siguiente:
 * Lo que ha cambiado recientemente, incluido el bot de Google que ahora lee el archivo
 * Por qué crear uno es un seguro de bajo esfuerzo, no una garantía de citación
 
->[!VIDEO](https://video.tv.adobe.com/v/3502763/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502897/?captions=spa&learn=on){transcript=true}

@@ -34,4 +34,4 @@ En este vídeo, aprenderá lo siguiente:
 * Por qué obtener su propio contenido preciso y coherente antes de publicarlo fuera del sitio
 * Cómo las oportunidades fuera del sitio (opinión citada, Wikipedia, Reddit, YouTube) y las palancas clásicas como backlinks y reseñas construyen autoridad
 
->[!VIDEO](https://video.tv.adobe.com/v/3502725/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502780/?captions=spa&learn=on){transcript=true}

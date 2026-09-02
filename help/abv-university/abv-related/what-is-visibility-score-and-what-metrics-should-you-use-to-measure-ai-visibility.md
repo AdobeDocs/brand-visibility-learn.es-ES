@@ -34,4 +34,4 @@ En este vídeo, aprenderá lo siguiente:
 * Por qué el marcador es una estrella del norte que es difícil actuar sola
 * Qué métricas emparejar con él, desde menciones y citas hasta comentarios y tráficos de referencia
 
->[!VIDEO](https://video.tv.adobe.com/v/3502740/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502906/?captions=spa&learn=on){transcript=true}

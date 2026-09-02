@@ -34,4 +34,4 @@ En este vídeo, aprenderá lo siguiente:
 * Por qué escribir la ubicación en el propio mensaje coincide mejor con el comportamiento real del usuario
 * Qué impulsa a comenzar con y cómo se aplica el enfoque en todas las industrias
 
->[!VIDEO](https://video.tv.adobe.com/v/3502724/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502755/?captions=spa&learn=on){transcript=true}
