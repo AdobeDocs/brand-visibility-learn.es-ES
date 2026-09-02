@@ -19,4 +19,4 @@ ht-degree: 3%
 
 Pruebas -
 
->[!VIDEO](https://video.tv.adobe.com/v/3502249/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502252/?captions=spa&quality=12&learn=on){transcript=true}
