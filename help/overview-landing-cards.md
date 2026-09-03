@@ -1,17 +1,19 @@
 ---
-title: 'Universidad de visibilidad de la marca: prueba de tarjetas de aterrizaje'
-description: Información general de la Visibilidad de la marca alternativa University creada con el componente contenedor de tarjetas de aterrizaje, para una comparación A/B de estilos de tarjeta.
-source-git-commit: 2933c381dec09383007558ed3bb4784cfd217e2f
+title: 'Visibilidad de la marca University: Tutoriales en vídeo de GEO'
+description: Aprenda cómo funcionan la Búsqueda por IA y las LLM y cómo obtener visibilidad de la marca y citas en las respuestas de IA, con vídeos de valor práctico de la Universidad de Visibilidad de la marca.
+product_v2: id: d830747e-f8f3-4fce-8eff-d53b333b1639
+feature_v2: id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
+source-git-commit: 813bbb1f29ef66a4396bf4adc0ff1f8072fa6df8
 workflow-type: tm+mt
-source-wordcount: '826'
-ht-degree: 2%
+source-wordcount: 845
+ht-degree: 3%
 
 ---
 
 
-# Universidad de la visibilidad de la marca (prueba A/B de tarjetas de aterrizaje)
+# Adobe Brand Visibility University
 
-Esta es una versión alternativa de la descripción general creada con el componente `landing-cards-container`, para compararla con las tarjetas generadas en HTML. Mismos vídeos, agrupados por temas.
+Bienvenido a Adobe Brand Visibility University, una creciente biblioteca de vídeos cortos y prácticos que explican cómo funcionan la Búsqueda por IA y los modelos de idiomas grandes, y cómo obtener visibilidad y citas para su marca en las respuestas de IA. Examine cada tema a continuación.
 
 ## Fundamentos: cómo funciona la Búsqueda por IA {#foundations}
 
