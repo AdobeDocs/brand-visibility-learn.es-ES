@@ -1,21 +1,19 @@
 ---
-title: Adobe Brand Visibility University
-description: Explore Adobe Brand Visibility University, vídeos cortos de valor práctico sobre cómo funciona la Búsqueda por IA y cómo obtener visibilidad de la marca y citas en las respuestas de IA.
+title: 'Visibilidad de la marca University: Tutoriales en vídeo de GEO'
+description: Aprenda cómo funcionan la Búsqueda por IA y las LLM y cómo obtener visibilidad de la marca y citas en las respuestas de IA, con vídeos de valor práctico de la Universidad de Visibilidad de la marca.
 autotag-review: '2026-08-25T17:55:59.130Z'
 TQID: 'https://experienceleague.adobe.com/j891oRQoiZfSO5whAmV25aYxEnDDjOD4JyWSoistBkw'
-product_v2:
-  - id: d830747e-f8f3-4fce-8eff-d53b333b1639
-feature_v2:
-  - id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
-source-git-commit: 7f9b032dd93d0c288aa96b93d7077d03c216a71e
+product_v2: id: d830747e-f8f3-4fce-8eff-d53b333b1639
+feature_v2: id: a080bb92-ba2a-4e53-ba60-f5184d1a9e9a
+source-git-commit: cfcef805ff63c2b290999b01c21b1c6b3d6abe1a
 workflow-type: tm+mt
-source-wordcount: 147
-ht-degree: 3%
+source-wordcount: 153
+ht-degree: 2%
 
 ---
 
 
-# Información general
+# Adobe Brand Visibility University
 
 Bienvenido a Adobe Brand Visibility University, una creciente biblioteca de vídeos cortos y prácticos que explican cómo funcionan la Búsqueda por IA y los modelos de idiomas grandes, y cómo obtener visibilidad y citas para su marca en las respuestas de IA. Examine cada tema a continuación.
 
