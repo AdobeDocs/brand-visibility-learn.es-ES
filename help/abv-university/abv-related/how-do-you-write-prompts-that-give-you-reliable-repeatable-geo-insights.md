@@ -6,15 +6,14 @@ role: Admin, Leader, User
 level: Beginner
 doc-type: Value Video
 duration: 161
-last-substantial-update: 2026-09-02T00:00:00Z
+last-substantial-update: 2026-09-02
 jira: KT-22505
-source-git-commit: 823cfd29f7816f485995fcb924740a402993fa54
+nudge: edit1
+source-git-commit: 5642abb49edec6e5d5ff59199a5c669806689048
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
-
 ---
-
 # ¿Cómo Se Escriben Indicadores Que Le Proporcionan Perspectivas GEO Fiables Y Repetibles?
 
 Trate las indicaciones que rastree como casos de prueba. Este vídeo muestra cómo los indicadores realistas, específicos y repetibles le proporcionan perspectivas de visibilidad de IA estables y fiables en Adobe Brand Visibility.
@@ -34,4 +33,4 @@ En este vídeo, aprenderá lo siguiente:
 * Por qué mantener un registro con versiones de los mensajes y su intención los mejora con el tiempo
 * Cómo cargar las solicitudes en Configuración del cliente y por qué los cambios frecuentes pueden afectar a las puntuaciones históricas
 
->[!VIDEO](https://video.tv.adobe.com/v/3502745/?captions=spa&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502722/?learn=on){transcript=true}
