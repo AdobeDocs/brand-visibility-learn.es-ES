@@ -7,15 +7,25 @@ role: Admin, Leader, User
 level: Beginner
 doc-type: Value Video
 duration: 403
-last-substantial-update: 2026-09-02T00:00:00Z
+last-substantial-update: 2026-09-02T00:00:00.000Z
 jira: KT-22500
-source-git-commit: 6fca4ae8b52606b1a965509a77f53554c5824637
+TQID: 'https://experienceleague.adobe.com/Yjc5C2YMJ-4UgHTsOK-XgIUMr-TaYXTNKh3Y4VxzI9Q'
+product_v2:
+  - id: d830747e-f8f3-4fce-8eff-d53b333b1639
+    internal-label: Brand Visibility
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+topic_v2:
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
+source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
-
 ---
-
 # Informe de rendimiento de IA de herramientas de Bing Webmaster
 
 Descubra cómo el nuevo Informe de rendimiento de IA de Microsoft en Bing Webmaster Tools rastrea la frecuencia con la que su contenido se cita como fuente en respuestas generadas por IA y lo que significa para la optimización generativa del motor (GEO).
@@ -35,7 +45,7 @@ En este vídeo, aprenderá lo siguiente:
 * Diferencia entre los datos de citas y el informe clásico de rendimiento de búsqueda de clics, impresiones y clasificación
 * Por qué esto es importante para su estrategia GEO y cómo complementa a Adobe Brand Visibility
 
->[!VIDEO](https://video.tv.adobe.com/v/3502695/?captions=spa&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502690/?learn=on){transcript=true}
 
 >[!NOTE]
 >Actualmente, el informe de rendimiento de IA solo cubre las citas en el copiloto de Bing y los resúmenes de IA. Todavía no incluye otros asistentes de IA como ChatGPT.
