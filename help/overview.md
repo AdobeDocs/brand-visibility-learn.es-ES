@@ -28,7 +28,7 @@ ht-degree: 3%
 Bienvenido a Adobe Brand Visibility University, una creciente biblioteca de vídeos cortos y prácticos que explican cómo funcionan la Búsqueda por IA y los modelos de idiomas grandes, y cómo obtener visibilidad y citas para su marca en las respuestas de IA. Examine cada tema a continuación.
 
 >[!NOTE]
->Para obtener toda la documentación, consulte la [documentación de Adobe Brand Visibility](https://experienceleague.adobe.com/en/docs/brand-visibility/using/home).
+>Para obtener toda la documentación, consulte la [documentación de Adobe Brand Visibility](https://experienceleague.adobe.com/es/docs/brand-visibility/using/home).
 
 ## Fundamentos: cómo funciona la Búsqueda por IA {#foundations}
 
