@@ -33,7 +33,7 @@ En este vídeo, aprenderá lo siguiente:
 * Dónde encontrar el informe antes y después en Opportunity Workspace
 * Por qué los visitantes humanos no ven ningún cambio mientras la IA ve la página optimizada
 
->[!VIDEO](https://video.tv.adobe.com/v/3504047/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504050/?captions=spa&learn=on){transcript=true}
 
 >[!NOTE]
 >Seleccione al menos 20 direcciones URL para que el motor tenga una muestra lo suficientemente grande como para medir el impacto con precisión. La medición de impacto está disponible hoy para la visibilidad del contenido de recuperación y se está expandiendo a todas las oportunidades de Optimización en Edge.
