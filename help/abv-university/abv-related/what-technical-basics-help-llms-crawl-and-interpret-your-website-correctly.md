@@ -24,10 +24,13 @@ role_v2:
     internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
     internal-label: Leader
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
+source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
@@ -51,4 +54,4 @@ En este vídeo, aprenderá lo siguiente:
 * Por qué los canónicos, los muros de pago y los muros de inicio de sesión incoherentes limitan el acceso de IA
 * Cómo el procesamiento del lado del cliente oculta el contenido y cómo lo corrige la visibilidad del contenido de recuperación
 
->[!VIDEO](https://video.tv.adobe.com/v/3502925/?captions=spa&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502741/?learn=on){transcript=true}

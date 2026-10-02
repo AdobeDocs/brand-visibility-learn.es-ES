@@ -21,12 +21,15 @@ role_v2:
     internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
     internal-label: Leader
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
     internal-label: Measurement
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: e014c908d0f11498ae1fdb62a96729df68d20b54
+source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -50,4 +53,4 @@ En este vídeo, aprenderá lo siguiente:
 * Por qué los nombres de marcas que también son palabras comunes son difíciles de detectar
 * Por qué la medición es una mejora continua que sigue mejorando
 
->[!VIDEO](https://video.tv.adobe.com/v/3502861/?captions=spa&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502766/?learn=on){transcript=true}
