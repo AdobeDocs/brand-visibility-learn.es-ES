@@ -1,13 +1,11 @@
 ---
 user-guide-title: Tutoriales de visibilidad de la marca
 user-guide-description: Tutoriales de visibilidad de la marca
-source-git-commit: 7f1a3c89f4fd4a1b79a81a9fd17da588b1b8f97d
+source-git-commit: 962fc1206da4f61ac41395aef6300bd68358c44d
 workflow-type: tm+mt
-source-wordcount: '187'
+source-wordcount: '193'
 ht-degree: 0%
-
 ---
-
 
 # Universidad de visibilidad de la marca {#tutorials}
 
@@ -27,6 +25,7 @@ ht-degree: 0%
   + [¿Tiene que optimizar todo el sitio web?](abv-university/abv-related/do-you-have-to-optimize-your-entire-website.md)
   + [¿Es relevante LLMs.txt?](abv-university/abv-related/llmstxt-is-it-relevant-june-2026.md)
 + Medición y visibilidad {#measurement}
+  + [Cómo funciona el motor de medición de impacto](abv-university/abv-related/how-does-the-impact-measurement-engine-work.md)
   + [Puntuación de visibilidad y métricas para la visibilidad de IA](abv-university/abv-related/what-is-visibility-score-and-what-metrics-should-you-use-to-measure-ai-visibility.md)
   + [Tráfico agéntico y sus decisiones de optimización](abv-university/abv-related/what-is-agentic-traffic-and-how-can-it-inform-optimization-decisions.md)
   + [Lo que GEO aún no puede medir y cómo mejora](abv-university/abv-related/what-we-cant-measure-well-yet-in-geo-and-how-measurement-will-improve-over-time.md)
