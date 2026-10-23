@@ -32,4 +32,4 @@ En este vídeo, aprenderá lo siguiente:
 * Cómo añadir el botón con dos líneas de HTML o una reserva de vínculo simple
 * Comprobación de la idoneidad y seguimiento de las selecciones en la consola de búsqueda de Google
 
->[!VIDEO](https://video.tv.adobe.com/v/3504832/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3504836/?captions=spa&learn=on){transcript=true}
