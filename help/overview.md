@@ -17,9 +17,9 @@ topic_v2:
     internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 1bf6e9acafc568f85cd5cda3f7c33d999a05b9b5
+source-git-commit: 3f24a036ef2a749be3711cde5621e0abc39b525f
 workflow-type: tm+mt
-source-wordcount: '944'
+source-wordcount: '1013'
 ht-degree: 2%
 ---
 
@@ -35,6 +35,24 @@ Bienvenido a Adobe Brand Visibility University, una creciente biblioteca de víd
 Los últimos cambios en la Búsqueda por IA y lo que significan para su marca.
 
 ::::landing-cards-container
+:::card
+![Se Explican Las Fuentes Preferidas De Google](/help/assets/overview/what-are-google-preferred-sources.png)
+
+Explicación de las fuentes preferidas de Google
+
+Qué hace la función Fuentes preferidas de Google, por qué está creciendo a gran velocidad y cómo añadirla en dos líneas de HTML.
+
+[Ver](abv-university/abv-related/what-are-google-preferred-sources.md)
+:::
+:::card
+![WebMCP y cómo los agentes de inteligencia artificial utilizan su sitio](/help/assets/overview/what-is-webmcp.png)
+
+WebMCP y cómo utilizan el sitio los agentes de IA
+
+Cómo WebMCP permite a los agentes de IA llamar a las herramientas en su página como una API, en qué se diferencia de MCP y por dónde comenzar.
+
+[Ver](abv-university/abv-related/what-is-webmcp.md)
+:::
 :::card
 ![Google ahora responde nombres de marcas con descripciones generales de IA](/help/assets/overview/google-now-answers-your-brand-name-with-an-ai-overview.png)
 
