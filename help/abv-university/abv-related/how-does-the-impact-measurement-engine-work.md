@@ -26,9 +26,9 @@ level_v2:
     internal-label: Beginner
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: 08becc62321c4060fc65556ea31128610ad34338
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '227'
 ht-degree: 0%
 ---
 # ¿Cómo funciona el motor de medición de impacto?
@@ -54,4 +54,4 @@ En este vídeo, aprenderá lo siguiente:
 >[!VIDEO](https://video.tv.adobe.com/v/3504050/?captions=spa&learn=on){transcript=true}
 
 >[!NOTE]
->Seleccione al menos 20 direcciones URL para que el motor tenga una muestra lo suficientemente grande como para medir el impacto con precisión. La medición de impacto está disponible hoy para la visibilidad del contenido de recuperación y se está expandiendo a todas las oportunidades de Optimización en Edge.
+>Seleccione al menos 20 direcciones URL para que el motor tenga una muestra lo suficientemente grande como para medir el impacto con precisión. La medición de impacto está disponible hoy para Recuperar Visibilidad del contenido, Añadir resúmenes favorables para LLM y Añadir tabla de contenido, y planea expandirse para optimizar las oportunidades de Edge.
