@@ -27,12 +27,12 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '167'
 ht-degree: 0%
 ---
-# Cómo funcionan los LLM: Guía para expertos en marketing
+# Cómo funcionan los LLM: una guía para expertos en marketing
 
 Una visión práctica y no técnica de cómo funcionan realmente los modelos lingüísticos de gran tamaño, por qué predicen en lugar de buscar respuestas y por qué ser citados es la nueva visibilidad de GEO.
 
@@ -51,4 +51,4 @@ En este vídeo, aprenderá lo siguiente:
 * Cómo la recuperación (RAG) fundamenta las respuestas en fuentes activas y produce citas
 * Por qué la moneda del descubrimiento está cambiando del clic a la cita, y las cinco palancas que ganan citas
 
->[!VIDEO](https://video.tv.adobe.com/v/3502888/?captions=spa&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502723/?learn=on){transcript=true}

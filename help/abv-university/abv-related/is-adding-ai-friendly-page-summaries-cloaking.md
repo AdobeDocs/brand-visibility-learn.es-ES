@@ -30,12 +30,12 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '159'
 ht-degree: 0%
 ---
-# ¿Se oculta al añadir resúmenes de páginas compatibles con IA?
+# ¿Se oculta al agregar resúmenes de página compatibles con IA?
 
 Respuesta corta: no. En este vídeo se explica por qué Optimizar en los resúmenes de Edge para agentes de IA no se oculta, utilizando la propia definición de Google y cómo mantener el control total.
 
@@ -54,4 +54,4 @@ En este vídeo, aprenderá lo siguiente:
 * Cómo las optimizaciones de Edge actualmente solo sirven para bots de IA, no para rastreadores de búsqueda
 * Cómo se puede revertir cualquier optimización en segundos desde la CDN
 
->[!VIDEO](https://video.tv.adobe.com/v/3502866/?captions=spa&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502726/?learn=on){transcript=true}

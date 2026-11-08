@@ -32,7 +32,7 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '214'
 ht-degree: 0%
@@ -56,7 +56,7 @@ En este vídeo, aprenderá lo siguiente:
 * Diferencia entre los datos de citas y el informe clásico de rendimiento de búsqueda de clics, impresiones y clasificación
 * Por qué esto es importante para su estrategia GEO y cómo complementa a Adobe Brand Visibility
 
->[!VIDEO](https://video.tv.adobe.com/v/3502695/?captions=spa&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502690/?learn=on){transcript=true}
 
 >[!NOTE]
 >Actualmente, el informe de rendimiento de IA solo cubre las citas en el copiloto de Bing y los resúmenes de IA. Todavía no incluye otros asistentes de IA como ChatGPT.

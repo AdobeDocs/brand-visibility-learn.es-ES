@@ -24,12 +24,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
 ---
-# ¿Cómo deciden los asistentes de IA cuándo usar fuentes externas y qué son las citas?
+# ¿Cómo deciden los asistentes de IA cuándo utilizar fuentes externas y qué son las citas?
 
 Los asistentes de IA responden a los datos de formación o recuperan primero las fuentes activas. Este vídeo muestra cómo deciden, qué es realmente una cita y por qué algunas no son reales.
 
@@ -48,4 +48,4 @@ En este vídeo, aprenderá lo siguiente:
 * Por qué algunas citas son alucinadas y pueden llevar a la 404s
 * Cómo contar una fuente recuperada real a partir de texto generado por el modelo
 
->[!VIDEO](https://video.tv.adobe.com/v/3502834/?captions=spa&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502754/?learn=on){transcript=true}

@@ -28,7 +28,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -52,4 +52,4 @@ En este vídeo, aprenderá lo siguiente:
 * Lo que significa que ChatGPT es de nuevo un canal de tráfico, no solo un canal de marca
 * La nueva función de tráfico de referencia del Inspector de URL muestra esto
 
->[!VIDEO](https://video.tv.adobe.com/v/3502913/?captions=spa&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502764/?learn=on){transcript=true}

@@ -30,12 +30,12 @@ level_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
 ---
-# ¿Qué fundamentos técnicos ayudan a los LLM a Rastrear e interpretar su sitio web correctamente?
+# ¿Qué conceptos básicos técnicos ayudan a los LLM a rastrear e interpretar su sitio web correctamente?
 
 Las experiencias LLM dependen de la misma infraestructura web que la búsqueda: rastrear, indexar y procesar. Este vídeo explica los conceptos básicos técnicos que mantienen el contenido visible y citable.
 
@@ -54,4 +54,4 @@ En este vídeo, aprenderá lo siguiente:
 * Por qué los canónicos, los muros de pago y los muros de inicio de sesión incoherentes limitan el acceso de IA
 * Cómo el procesamiento del lado del cliente oculta el contenido y cómo lo corrige la visibilidad del contenido de recuperación
 
->[!VIDEO](https://video.tv.adobe.com/v/3502925/?captions=spa&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502741/?learn=on){transcript=true}

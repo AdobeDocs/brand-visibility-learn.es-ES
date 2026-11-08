@@ -30,7 +30,7 @@ level_v2:
 topic_v2:
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
     internal-label: Optimization
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -54,4 +54,4 @@ En este vídeo, aprenderá lo siguiente:
 * Dónde revisar qué sugerencias ha aplicado y cuáles siguen abiertas
 * Cómo revertir cualquier optimización en cualquier momento
 
->[!VIDEO](https://video.tv.adobe.com/v/3502730/?captions=spa&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502721/?learn=on){transcript=true}

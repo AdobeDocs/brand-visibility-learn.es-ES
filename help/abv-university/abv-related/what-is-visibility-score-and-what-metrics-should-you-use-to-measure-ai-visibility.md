@@ -35,12 +35,12 @@ topic_v2:
     internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 0%
 ---
-# ¿Qué es la Puntuación de visibilidad y qué métricas debe utilizar para medir la visibilidad de la IA?
+# ¿Qué es la puntuación de visibilidad y qué métricas debe utilizar para medir la visibilidad de la IA?
 
 La puntuación de visibilidad es una métrica agregada y cada herramienta la calcula de forma diferente. En este vídeo se explica qué incluye Adobe Brand Visibility y qué métricas se van a emparejar con él.
 
@@ -59,4 +59,4 @@ En este vídeo, aprenderá lo siguiente:
 * Por qué el marcador es una estrella del norte que es difícil actuar sola
 * Qué métricas emparejar con él, desde menciones y citas hasta comentarios y tráficos de referencia
 
->[!VIDEO](https://video.tv.adobe.com/v/3502906/?captions=spa&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502740/?learn=on){transcript=true}

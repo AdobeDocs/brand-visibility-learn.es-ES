@@ -30,12 +30,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 ---
-# ¿Cómo deciden los LLM de los modelos de idiomas grandes qué citas incluir en sus respuestas?
+# ¿Cómo deciden los LLMs de modelos de idiomas grandes qué citas incluir en sus respuestas?
 
 Los LLM abanican un solo mensaje en muchas consultas más pequeñas y citan las fuentes que funcionan mejor en todas ellas. Este vídeo explica lo que significa para conseguir que su marca sea citada.
 
@@ -54,4 +54,4 @@ En este vídeo, aprenderá lo siguiente:
 * Por qué una cobertura coherente puede superar a una sola clasificación número uno
 * Por qué el contenido de actualidad profunda y el SEO fuerte siguen generando citas
 
->[!VIDEO](https://video.tv.adobe.com/v/3502825/?captions=spa&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502762/?learn=on){transcript=true}

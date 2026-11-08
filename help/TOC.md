@@ -1,7 +1,7 @@
 ---
 user-guide-title: Tutoriales de visibilidad de la marca
 user-guide-description: Tutoriales de visibilidad de la marca
-source-git-commit: 3f24a036ef2a749be3711cde5621e0abc39b525f
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -12,20 +12,20 @@ ht-degree: 0%
 + [Información general](overview.md)
 + Noticias e información {#news-and-insights}
   + [Explicación de las fuentes preferidas de Google](abv-university/abv-related/what-are-google-preferred-sources.md)
-  + [WebMCP y cómo utilizan el sitio los agentes de IA](abv-university/abv-related/what-is-webmcp.md)
-  + [Google ahora responde a los nombres de marca con descripciones generales de IA](abv-university/abv-related/google-now-answers-your-brand-name-with-an-ai-overview.md)
+  + [WebMCP y cómo los agentes de IA utilizan el sitio](abv-university/abv-related/what-is-webmcp.md)
+  + [Google ahora responde a los nombres de marca con Información general sobre IA](abv-university/abv-related/google-now-answers-your-brand-name-with-an-ai-overview.md)
 + Fundamentos: cómo funciona la Búsqueda por IA {#foundations}
-  + [Cómo funcionan los LLM: Guía para expertos en marketing](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
-  + [Escritura de peticiones de datos GEO fiables y repetibles](abv-university/abv-related/how-do-you-write-prompts-that-give-you-reliable-repeatable-geo-insights.md)
-  + [Asignación de indicadores a personalidades y audiencias](abv-university/abv-related/why-map-prompts-to-personas-and-how-do-you-tailor-prompts-to-different-audiences.md)
+  + [Cómo funcionan los LLM: una guía para expertos en marketing](abv-university/abv-related/how-llms-work-a-marketers-guide.md)
+  + [Escribir indicaciones para obtener información GEO fiable y repetible](abv-university/abv-related/how-do-you-write-prompts-that-give-you-reliable-repeatable-geo-insights.md)
+  + [Asignación de mensajes a perfiles y audiencias](abv-university/abv-related/why-map-prompts-to-personas-and-how-do-you-tailor-prompts-to-different-audiences.md)
   + [Cómo los asistentes de IA utilizan fuentes y citas externas](abv-university/abv-related/how-do-ai-assistants-decide-when-to-use-outside-sources-and-what-are-citations.md)
   + [Cómo deciden los LLM qué citas incluir](abv-university/abv-related/how-do-large-language-models-llms-decide-which-citations-to-include-in-their-responses.md)
-  + [Menciones frente a citas en respuestas de IA](abv-university/abv-related/what-is-the-difference-between-being-mentioned-and-being-cited-in-an-ai-answer.md)
+  + [Menciones frente a citas en las respuestas de IA](abv-university/abv-related/what-is-the-difference-between-being-mentioned-and-being-cited-in-an-ai-answer.md)
 + Técnico y optimización en Edge {#technical}
-  + [Fundamentos técnicos para ayudar a los LLM a Rastrear su sitio](abv-university/abv-related/what-technical-basics-help-llms-crawl-and-interpret-your-website-correctly.md)
-  + [¿Qué se optimiza en Edge?](abv-university/abv-related/what-is-optimize-at-the-edge.md)
-  + [¿El contenido de procesamiento previo para bots de IA se oculta?](abv-university/abv-related/is-pre-rendering-content-for-ai-bots-cloaking.md)
-  + [¿Se oculta al añadir resúmenes de páginas compatibles con IA?](abv-university/abv-related/is-adding-ai-friendly-page-summaries-cloaking.md)
+  + [Fundamentos técnicos para ayudar a los LLM a rastrear su sitio](abv-university/abv-related/what-technical-basics-help-llms-crawl-and-interpret-your-website-correctly.md)
+  + [¿Qué es Optimizar en Edge?](abv-university/abv-related/what-is-optimize-at-the-edge.md)
+  + [¿El contenido de preprocesamiento para bots de IA se oculta?](abv-university/abv-related/is-pre-rendering-content-for-ai-bots-cloaking.md)
+  + [¿Se oculta al agregar resúmenes de página compatibles con IA?](abv-university/abv-related/is-adding-ai-friendly-page-summaries-cloaking.md)
   + [¿Tiene que optimizar todo el sitio web?](abv-university/abv-related/do-you-have-to-optimize-your-entire-website.md)
   + [¿Es relevante LLMs.txt?](abv-university/abv-related/llmstxt-is-it-relevant-june-2026.md)
 + Medición y visibilidad {#measurement}
@@ -36,8 +36,8 @@ ht-degree: 0%
   + [Informe de rendimiento de IA de herramientas de Bing Webmaster](abv-university/abv-related/bing-webmaster-tools-ai-performance-report.md)
   + [Aumento de tráficos de referencia de ChatGPT en mayo de 2026](abv-university/abv-related/referral-traffic-increase-from-chatgpt-in-may-2026.md)
 + Presencia de marca y monitorización {#brand-presence}
-  + [Aumento de la autoridad de marca para dominios de bajo tráfico agéntico](abv-university/abv-related/increasing-brand-authority-for-low-agentic-traffic-domains.md)
-  + [Mejora de lo que dicen los asistentes de IA sobre sus productos](abv-university/abv-related/what-can-you-do-to-improve-what-ai-assistants-say-about-your-products-or-services.md)
-  + [Cómo monitorizar las diferencias regionales en las respuestas de marca de IA](abv-university/abv-related/how-to-monitor-regional-differences-in-ai-brand-responses.md)
-  + [Razones para supervisar regularmente las respuestas de IA sobre su marca](abv-university/abv-related/why-should-you-regularly-monitor-what-ai-assistants-say-about-your-brand-or-topic.md)
-  + [Por qué la Opinión importa en las respuestas de IA (y sus límites)](abv-university/abv-related/why-does-sentiment-matter-in-ai-answers-and-what-can-sentiment-analysis-miss.md)
+  + [Aumento de la autoridad de marca para dominios de tráfico poco auténtico](abv-university/abv-related/increasing-brand-authority-for-low-agentic-traffic-domains.md)
+  + [Mejora de lo que los asistentes de IA dicen sobre sus productos](abv-university/abv-related/what-can-you-do-to-improve-what-ai-assistants-say-about-your-products-or-services.md)
+  + [Monitorización de las diferencias regionales en las respuestas de marca de IA](abv-university/abv-related/how-to-monitor-regional-differences-in-ai-brand-responses.md)
+  + [Por qué monitorizar regularmente las respuestas de IA sobre su marca](abv-university/abv-related/why-should-you-regularly-monitor-what-ai-assistants-say-about-your-brand-or-topic.md)
+  + [Por qué la opinión importa en las respuestas de IA (y sus límites)](abv-university/abv-related/why-does-sentiment-matter-in-ai-answers-and-what-can-sentiment-analysis-miss.md)

@@ -25,12 +25,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 0%
 ---
-# ¿Por qué asignar indicadores a personas y cómo adaptar los indicadores a distintas audiencias?
+# ¿Por qué asignar indicadores a personalidades y cómo adaptar los indicadores a distintas audiencias?
 
 La asignación de mensajes basada en personas agrupa peticiones de datos de tipos de usuarios reales. Este vídeo muestra por qué la personalización de las preguntas a las audiencias revela su verdadera posición en las respuestas de IA.
 
@@ -49,4 +49,4 @@ En este vídeo, aprenderá lo siguiente:
 * Cómo agrupar temas por persona, como un tomador de decisiones o un estudiante
 * Por qué la visibilidad promedio en toda una audiencia oculta su posición real
 
->[!VIDEO](https://video.tv.adobe.com/v/3502798/?captions=spa&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3502768/?learn=on){transcript=true}
