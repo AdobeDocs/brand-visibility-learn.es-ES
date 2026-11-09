@@ -30,12 +30,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
 ---
-# ¿Por qué importa la Opinión en las respuestas de IA y qué puede faltar en el análisis de Opinión?
+# ¿Por qué importa la opinión en las respuestas de IA y qué puede pasar por alto el análisis de opinión?
 
 La opinión es la dirección emocional del lenguaje y da forma a la forma en que las respuestas de IA retratan a su marca. En este vídeo se explica por qué importa y dónde puede fallar el análisis de opinión.
 

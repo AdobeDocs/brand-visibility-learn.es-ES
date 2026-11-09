@@ -31,12 +31,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 0%
 ---
-# ¿Por qué debería supervisar con regularidad lo que dicen los asistentes de IA sobre su marca o tema?
+# ¿Por qué debería monitorizar regularmente lo que dicen los asistentes de IA sobre su marca o tema?
 
 Las respuestas de IA cambian rápidamente a medida que los modelos se actualizan y la web cambia. En este vídeo se explica por qué la monitorización regular garantiza la calidad de la imagen de su marca que ofrece la IA.
 

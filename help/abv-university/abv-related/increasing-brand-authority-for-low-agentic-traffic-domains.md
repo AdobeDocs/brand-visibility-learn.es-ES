@@ -30,12 +30,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
 ---
-# Aumento de la autoridad de marca para dominios de bajo tráfico agéntico
+# Aumento de la autoridad de marca para dominios de tráfico poco auténtico
 
 La autoridad de marca decide si se clasifica en la búsqueda y se le cita en las respuestas de IA. Este vídeo muestra cómo crearlo a partir de vínculos, menciones y reputación, y medirlo en Adobe Brand Visibility incluso cuando el tráfico de IA sigue siendo bajo.
 

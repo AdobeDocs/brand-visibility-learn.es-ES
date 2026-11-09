@@ -29,12 +29,12 @@ topic_v2:
     internal-label: Measurement
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: 5ab61c70355a35c919ef3856db18e6af75815168
+source-git-commit: d7c3dc2bab23c618d1537013d843557571a816e0
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 ---
-# Lo que aún no podemos medir bien en GEO y cómo la medición mejorará con el tiempo
+# Lo que aún no podemos medir bien en GEO y cómo mejorará la medición con el tiempo
 
 La medición GEO es difícil porque la IA no es determinista y cambia con la región, la actualización y la personalización. Este vídeo trata sobre lo que es difícil de medir hoy en día y cómo está mejorando.
 
